@@ -162,8 +162,6 @@ $\color{#6A597A}{\textsf{🎨 ıƒ υֹׅ 𝗰𝛐𝗽ყ 𝛐𝗋 ıղꜱ𝗽�
 
 <img width="521" height="56" alt="Pony Town achievement" src="https://github.com/user-attachments/assets/2fb1ca31-b898-4b10-b8c8-c84df489b0bb" />
 
-<img width="573" height="51" alt="pt-everypony (ᥱ᥎ᥱrᥡ⍴᥆ᥒᥡ) and 1 more page - Personal - Microsoft​ Edge 25_08_1405 01_04_13 ب ظ (2)" src="https://github.com/user-attachments/assets/4ba78b52-83ab-491d-88ca-d2a8dbef5030" />
-
 <br><br>
 
 $\color{#A693BE}{\textsf{𝗍ყꜱო ƒ𝛐𝗋 ⍺ᑯᑯıղ𝗴 ო𝗲 !}}$
