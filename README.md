@@ -26,19 +26,9 @@
 <img width="640" height="375" alt="main banner" src="https://github.com/user-attachments/assets/c05546aa-ef97-4952-9e92-c65066a39c41" />
 
 <br><br>
-<!-- TETO -->
-
-<img width="120" height="120" alt="Teto" src="https://github.com/user-attachments/assets/cef440dc-4fbb-4a42-b0f6-fb8b64850166" />
-
-</div>
-
-<br>
-
 <!-- ABOUT ME -->
 
 <div align="center">
-
-<img width="99" height="56" alt="PPPP Teto" src="https://github.com/user-attachments/assets/e9d6270f-0537-45bf-b38a-d5f115de78e0" />
 
 <br><br>
 
@@ -81,10 +71,6 @@ $\color{#A693BE}{\textsf{↓}}$
 <a href="https://en.pronouns.page/@Kurokaori">୨୧ pronouns</a>
 &nbsp; $\color{#C5D5F8}{\textsf{✮}}$ &nbsp;
 <a href="https://kaorikuro.straw.page">୨୧ strawpage</a>
-
-<br><br>
-
-<img width="120" height="120" alt="character gif" src="https://github.com/user-attachments/assets/13174eaf-f89f-4c55-a677-a377f92cbc3c" />
 
 </div>
 
@@ -137,23 +123,6 @@ $\color{#6A597A}{\textsf{🎨 ıƒ υֹׅ 𝗰𝛐𝗽ყ 𝛐𝗋 ıղꜱ𝗽�
 <img width="100" height="56" alt="Yatta decoration" src="https://github.com/user-attachments/assets/4f31d52e-8eb7-493e-b64e-2053d2373dbb" />
 
 <img width="100" height="56" alt="Yatta decoration" src="https://github.com/user-attachments/assets/033f5bf9-abc9-4d4d-a39b-14fc0b4b8a19" />
-
-<br><br>
-
-$\color{#C5D5F8}{\textsf{⋆｡°✩}}$
-$\color{#ECC8E7}{\textsf{𝗆𝗒}}$
-$\color{#A693BE}{\textsf{𝗅𝗂𝗍𝗍𝗅𝖾}}$
-$\color{#C17CA8}{\textsf{𝗌𝗉𝖺𝖼𝖾}}$
-$\color{#C5D5F8}{\textsf{✩°｡⋆}}$
-
-<br><br>
-
-<img width="220" height="211" alt="Yatta" src="https://github.com/user-attachments/assets/b5dcd1cb-355c-4a23-84ac-8f3dc14a682c" /><img width="165" height="215" alt="Yatta" src="https://github.com/user-attachments/assets/f749582a-2688-46e3-9b49-555755ba57e3" /><img width="220" height="215" alt="Yatta" src="https://github.com/user-attachments/assets/638d3fcd-2b5e-48b8-ab88-cf7a82e629a3" /><img width="220" height="220" alt="Yatta" src="https://github.com/user-attachments/assets/9628ebe1-b9e1-43af-9896-6544fed57d4e" />
-
-<br>
-
-<a href="https://github.com/seedlysosu">last gif creds to</a>
-
 <br><br>
 
 <img width="245" height="246" alt="Yatta decoration" src="https://github.com/user-attachments/assets/0b0ec235-b86a-4005-9c43-155b077a7895" />
