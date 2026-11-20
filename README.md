@@ -1,7 +1,7 @@
 
-<!-- HEADER BANNERS -->
-
 <div align="center">
+
+<!-- HEADER BANNERS -->
 
 <img width="640" height="225" alt="header banner" src="https://github.com/user-attachments/assets/9ccb771c-e593-4ace-9a13-9d352c4e7cad" />
 
@@ -13,7 +13,7 @@
 
 <!-- VISITOR BADGE -->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kurokaori.visitor-badge&left_text=%E2%8B%86%E2%91%85%CB%9A%E2%82%8A%CA%9A%F0%96%A6%B9%C9%9E%E2%8B%86%E2%91%85%CB%9A%E2%82%8A&left_color=%23E8D2D3&right_color=%23DF6890&radius=10)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kurokaori.visitor-badge&left_text=%E2%8B%86%E2%91%85%CB%9A%E2%82%8A%CA%9A%F0%96%A6%B9%C9%9E%E2%8B%86%E2%91%85%CB%9A%E2%82%8A&left_color=%23E8D2D3&right_color=%2380D1F8&radius=10)
 
 <br>
 
@@ -26,8 +26,7 @@
 <img width="640" height="375" alt="main banner" src="https://github.com/user-attachments/assets/c05546aa-ef97-4952-9e92-c65066a39c41" />
 
 <br><br>
-
-<br>
+<!-- TETO -->
 
 <img width="120" height="120" alt="Teto" src="https://github.com/user-attachments/assets/cef440dc-4fbb-4a42-b0f6-fb8b64850166" />
 
@@ -45,42 +44,42 @@
 
 <p align="center">
 
-$\color{#D28AA3}{\textsf{୨୧ 𝗸υֹׅ𝗋𝛐ᑯ⍺ 𝛐𝗋 ყ⍺𝗍𝗍⍺(𝗸υֹׅ𝗋𝛐 ıƒ ƒ𝗋ı𝗲ղᑯꜱ)}}$
+$\color{#A693BE}{\textsf{୨୧ 𝗸υֹׅ𝗋𝛐ᑯ⍺ 𝛐𝗋 ყ⍺𝗍𝗍⍺(𝗸υֹׅ𝗋𝛐 ıƒ ƒ𝗋ı𝗲ղᑯꜱ)}}$
 &nbsp;
-$\color{#B1E3C6}{\textsf{₊˚⊹}}$
+$\color{#C5D5F8}{\textsf{₊˚⊹}}$
 &nbsp;
 <img width="38" src="https://github.com/user-attachments/assets/c11311d6-168b-47a6-86a7-8a520c6f361c" />
 &nbsp;
-$\color{#FFEF76}{\textsf{17 ,, -15 iwec .ᐟ}}$
+$\color{#9A83B8}{\textsf{17 ,, -15 iwec .ᐟ}}$
 &nbsp;
-$\color{#DF6890}{\textsf{♡🎠}}$
+$\color{#ECC8E7}{\textsf{♡🎠}}$
 &nbsp;
-$\color{#D28AA3}{\textsf{⋆-‘˚ꜱჩ𝗲 / 𝗍ჩ𝗲ყ๑´-}}$
+$\color{#7F6D9F}{\textsf{⋆-‘˚ꜱჩ𝗲 / 𝗍ჩ𝗲ყ๑´-}}$
 
 </p>
 
 <p align="center">
 
-$\color{#B1E3C6}{\textsf{ᰔ}}$
+$\color{#ECC8E7}{\textsf{ᰔ}}$
 &nbsp;
-$\color{#DF6890}{\textsf{. ۫ ·ჩ𝗲⍺𝘃ყ ყ⍺𝗍𝗍⍺ ƒı𝗰𝗍ı𝛐ղ𝗸ıղ}}$
+$\color{#A693BE}{\textsf{. ۫ ·ჩ𝗲⍺𝘃ყ ყ⍺𝗍𝗍⍺ ƒı𝗰𝗍ı𝛐ղ𝗸ıղ}}$
 &nbsp;
-$\color{#303030}{\textsf{ᑯb͜ℓꜱ ıω𝗲𝗰}}$
+$\color{#6A597A}{\textsf{ᑯb͜ℓꜱ ıω𝗲𝗰}}$
 &nbsp;
-$\color{#FFEF76}{\textsf{🍬}}$
+$\color{#C5D5F8}{\textsf{🍬}}$
 &nbsp;
-$\color{#D28AA3}{\textsf{✮}}$
+$\color{#9A83B8}{\textsf{✮}}$
 
 </p>
 
 <br>
 
-$\color{#DF6890}{\textsf{↓}}$
+$\color{#A693BE}{\textsf{↓}}$
 
 <a href="https://Kurokaori.atabook.org">୨୧ atabook</a>
-&nbsp; $\color{#FFEF76}{\textsf{♡}}$ &nbsp;
+&nbsp; $\color{#ECC8E7}{\textsf{♡}}$ &nbsp;
 <a href="https://en.pronouns.page/@Kurokaori">୨୧ pronouns</a>
-&nbsp; $\color{#B1E3C6}{\textsf{✮}}$ &nbsp;
+&nbsp; $\color{#C5D5F8}{\textsf{✮}}$ &nbsp;
 <a href="https://kaorikuro.straw.page">୨୧ strawpage</a>
 
 <br><br>
@@ -91,7 +90,7 @@ $\color{#DF6890}{\textsf{↓}}$
 
 <br>
 
-<!-- DIVIDER BANNER -->
+<!-- DECORATIVE DIVIDER -->
 
 <div align="center">
 
@@ -105,23 +104,23 @@ $\color{#DF6890}{\textsf{↓}}$
 
 <div align="center">
 
-<h2>୨୧ MY DNI LIST 🎠</h2>
+$\color{#7F6D9F}{\textsf{୨୧ MY DNI LIST 🎠}}$
 
-<br>
+<br><br>
 
 <p align="center">
 
-$\color{#DF6890}{\textsf{🚫 𝗽𝗋𝛐/D⍺𝗋𝗸 ꜱჩı𝗽𝗽𝗲𝗋ꜱ}}$
-&nbsp; $\color{#FFEF76}{\textsf{୨୧}}$ &nbsp;
-$\color{#B1E3C6}{\textsf{🧸 υֹׅղᑯ𝗲𝗋 15 ყ𝛐}}$
+$\color{#A693BE}{\textsf{🚫 𝗽𝗋𝛐/D⍺𝗋𝗸 ꜱჩı𝗽𝗽𝗲𝗋ꜱ}}$
+&nbsp; $\color{#ECC8E7}{\textsf{୨୧}}$ &nbsp;
+$\color{#9A83B8}{\textsf{🧸 υֹׅղᑯ𝗲𝗋 15 ყ𝛐}}$
 
 </p>
 
 <p align="center">
 
-$\color{#D28AA3}{\textsf{🎭 𝗋⍺𝗴𝗲 ꜱჩı𝗽𝗽𝗲𝗋ꜱ}}$
-&nbsp; $\color{#FFEF76}{\textsf{୨୧}}$ &nbsp;
-$\color{#303030}{\textsf{🎨 ıƒ υֹׅ 𝗰𝛐𝗽ყ 𝛐𝗋 ıղꜱ𝗽𝛐 ოყ ꜱ𝗸ıղꜱ}}$
+$\color{#C17CA8}{\textsf{🎭 𝗋⍺𝗴𝗲 ꜱჩı𝗽𝗽𝗲𝗋ꜱ}}$
+&nbsp; $\color{#C5D5F8}{\textsf{୨୧}}$ &nbsp;
+$\color{#6A597A}{\textsf{🎨 ıƒ υֹׅ 𝗰𝛐𝗽ყ 𝛐𝗋 ıղꜱ𝗽𝛐 ოყ ꜱ𝗸ıղꜱ}}$
 
 </p>
 
@@ -141,14 +140,32 @@ $\color{#303030}{\textsf{🎨 ıƒ υֹׅ 𝗰𝛐𝗽ყ 𝛐𝗋 ıղꜱ𝗽�
 
 <br><br>
 
+$\color{#C5D5F8}{\textsf{⋆｡°✩}}$
+$\color{#ECC8E7}{\textsf{𝗆𝗒}}$
+$\color{#A693BE}{\textsf{𝗅𝗂𝗍𝗍𝗅𝖾}}$
+$\color{#C17CA8}{\textsf{𝗌𝗉𝖺𝖼𝖾}}$
+$\color{#C5D5F8}{\textsf{✩°｡⋆}}$
+
+<br><br>
+
+<img width="220" height="211" alt="Yatta" src="https://github.com/user-attachments/assets/b5dcd1cb-355c-4a23-84ac-8f3dc14a682c" /><img width="165" height="215" alt="Yatta" src="https://github.com/user-attachments/assets/f749582a-2688-46e3-9b49-555755ba57e3" /><img width="220" height="215" alt="Yatta" src="https://github.com/user-attachments/assets/638d3fcd-2b5e-48b8-ab88-cf7a82e629a3" /><img width="220" height="220" alt="Yatta" src="https://github.com/user-attachments/assets/9628ebe1-b9e1-43af-9896-6544fed57d4e" />
+
+<br>
+
+<a href="https://github.com/seedlysosu">last gif creds to</a>
+
+<br><br>
+
 <img width="245" height="246" alt="Yatta decoration" src="https://github.com/user-attachments/assets/0b0ec235-b86a-4005-9c43-155b077a7895" />
 
 </div>
 
+---
+
 <!-- ACHIEVEMENTS - LAST SECTION -->
 
 <details>
-<summary align="center"><b>୨୧ A𝗰ჩı𝗲𝘃𝗲ო𝗲ղ𝗍ꜱ !! 🎀</b></summary>
+<summary><b>୨୧ A𝗰ჩı𝗲𝘃𝗲ო𝗲ղ𝗍ꜱ !! 🎀</b></summary>
 
 <div align="center">
 
@@ -178,8 +195,8 @@ $\color{#303030}{\textsf{🎨 ıƒ υֹׅ 𝗰𝛐𝗽ყ 𝛐𝗋 ıղꜱ𝗽�
 
 <br><br>
 
-$\color{#DF6890}{\textsf{𝗍ყꜱო ƒ𝛐𝗋 ⍺ᑯᑯıղ𝗴 ო𝗲 !}}$
-$\color{#B1E3C6}{\textsf{<3}}$
+$\color{#A693BE}{\textsf{𝗍ყꜱო ƒ𝛐𝗋 ⍺ᑯᑯıղ𝗴 ო𝗲 !}}$
+$\color{#C5D5F8}{\textsf{<3}}$
 
 </div>
 </details>
