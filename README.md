@@ -99,7 +99,7 @@ $\color{#7F6D9F}{\textsf{୨୧ MY DNI LIST 🎠}}$
 $\color{#A693BE}{\textsf{🚫 𝗽𝗋𝛐/D⍺𝗋𝗸 ꜱჩı𝗽𝗽𝗲𝗋ꜱ}}$
 &nbsp; $\color{#ECC8E7}{\textsf{୨୧}}$ &nbsp;
 $\color{#9A83B8}{\textsf{🧸 υֹׅղᑯ𝗲𝗋 15 ყ𝛐}}$
-$\color{#ECC8E7}{\textsf{📢b͜⍺ꜱı𝗰}}
+$\color{#ECC8E7}{\textsf{୨୧📢b͜⍺ꜱı𝗰}}$
 
 </p>
 
